@@ -20,6 +20,7 @@
   "devDependencies": {
     "@testing-library/react": "^16.0.0",
     "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.9",
     "@types/pretty": "^2.0.3",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
@@ -32,8 +33,7 @@
     "happy-dom": "^14.12.3",
     "pretty": "^2.0.0",
     "typescript": "^5.2.2",
-    "@types/node": "^20.14.9",
     "vite": "^5.3.3",
-    "vitest": "^1.6.0"
+    "vitest": "^1.6.1"
   }
 }
