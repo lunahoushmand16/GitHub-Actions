@@ -60,3 +60,6 @@ You'll need a .env file with a dummy or real OMDb API key:
 
 ## 📚 Credits
 Project built as part of a full-stack bootcamp mini-project to practice DevOps workflows and CI/CD concepts.
+
+## ender live link
+[Render live link](https://github-actions-3po4.onrender.com)
